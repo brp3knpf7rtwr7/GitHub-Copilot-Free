@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brp3knpf7rtwr7.github.io/GitHub-Copilot-Free/sitemap.xml
